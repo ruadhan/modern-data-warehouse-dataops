@@ -278,7 +278,7 @@
 						}
 					},
 					{
-						"name": "Set infilefolder",
+						"name": "Set infilefolder1",
 						"type": "SetVariable",
 						"dependsOn": [],
 						"userProperties": [],
@@ -295,7 +295,7 @@
 						"type": "Copy",
 						"dependsOn": [
 							{
-								"activity": "Set infilefolder",
+								"activity": "Set infilefolder1",
 								"dependencyConditions": [
 									"Succeeded"
 								]
@@ -349,7 +349,7 @@
 						"type": "Copy",
 						"dependsOn": [
 							{
-								"activity": "Set infilefolder",
+								"activity": "Set infilefolder1",
 								"dependencyConditions": [
 									"Succeeded"
 								]
