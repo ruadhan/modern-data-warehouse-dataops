@@ -81,7 +81,7 @@
                     "tenant": "=",
                     "dataLakeStoreUri": "=",
                     "baseUrl": "=",
-                    "domain":"=",
+                    "domain": "=",
                     "database": "=",
                     "serviceEndpoint": "=",
                     "batchUri": "=",
