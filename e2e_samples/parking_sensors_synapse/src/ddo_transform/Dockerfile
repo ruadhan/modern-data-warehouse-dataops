@@ -1,4 +1,4 @@
-FROM python:3.7.3
+FROM python:3.10.12
 
 # Install OpenJDK 8 and Python
 RUN \
